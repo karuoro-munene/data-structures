@@ -1,3 +1,3 @@
 ## Data Structures and Algorithms
 
-A play ground to refresh my knowledge on data structures and algorithms
+A playground to refresh and add onto my knowledge of data structures and algorithms that recur in my daily practice
